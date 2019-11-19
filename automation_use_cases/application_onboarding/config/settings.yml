@@ -1,0 +1,15 @@
+# Connecting to InsightAppSec
+connection:
+  region:
+  api_key:
+engine_group:
+  name:
+  environment:
+scan_on_creation:
+onboarding_config:
+  - app_name:
+    attack_template:
+    url:
+  - app_name:
+    attack_template:
+    url:

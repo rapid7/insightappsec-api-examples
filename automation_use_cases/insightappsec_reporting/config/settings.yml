@@ -1,0 +1,11 @@
+# Connecting to InsightAppSec
+connection:
+  region:
+  api_key:
+report_config:
+  - app:
+    scan_config:
+  - app:
+    scan_config:
+report_format:
+  pretty_print: true
