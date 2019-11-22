@@ -1,0 +1,9 @@
+connection:
+  region: us
+  api_key: 
+scan_info:
+  - app_name: Application 1
+    scan_config_name: Default
+  - app_name: Application 2
+    scan_config_name: Default
+status_check_interval: 60
